@@ -90,3 +90,13 @@ grep -R "qdrant" /app/backend/open_webui -n
 - [ ] Puedo dibujar OpenWebUI -> Qdrant -> modelo.
 - [ ] Puedo explicar imagen oficial + patch.
 - [ ] Puedo hacer una checklist de inspección.
+
+## Repo específico de tu jefe
+
+Añadido para el caso de Technica:
+
+- [[Repo_javilima01_OpenWebUI]]
+- [[Analisis_codigo_hybrid_search_javilima01]]
+- [[Como_convertir_repo_javilima01_en_patch_empresa]]
+
+Este repo es importante porque contiene el código que probablemente se convierte en diff/patch aplicado sobre la imagen oficial de OpenWebUI. No lo estudies como "OpenWebUI entero"; estúdialo por rutas: configuración RAG, retrieval, Qdrant, UI admin y middleware.

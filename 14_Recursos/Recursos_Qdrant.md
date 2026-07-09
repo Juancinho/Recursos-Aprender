@@ -22,3 +22,20 @@ Un recurso externo solo cuenta si lo conviertes en práctica.
 - [ ] He extraído un comando, concepto o limitación.
 - [ ] Lo he enlazado con una nota técnica.
 - [ ] He descartado lo que no necesito ahora.
+
+## Referencias guiadas Qdrant
+
+- Documentación principal: https://qdrant.tech/documentation/
+  - Mira: Local Quickstart, collections, points, payload.
+- Search: https://qdrant.tech/documentation/search/
+  - Mira: vector search y filtros.
+- Hybrid queries: https://qdrant.tech/documentation/search/hybrid-queries/
+  - Mira: cómo combinar señales.
+- Concepts collections: https://qdrant.tech/documentation/concepts/collections/
+- Concepts points: https://qdrant.tech/documentation/concepts/points/
+
+## Después de leer
+
+- [ ] Ejecuta [[Lab_07_Qdrant]].
+- [ ] Explica por qué payload es tan importante como vector.
+- [ ] Cambia un filtro por `module`.

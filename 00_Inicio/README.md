@@ -22,6 +22,7 @@ El foco no es aprender IA de forma genérica. El foco es entender un sistema rea
 - [[Embeddings_para_requisitos]]
 - [[Qdrant]]
 - [[OpenWebUI]]
+- [[Repo_javilima01_OpenWebUI]]
 - [[Motor_de_inferencia]]
 - [[Qodo]]
 - [[LangGraph]]
@@ -54,3 +55,13 @@ Usa esta nota como punto de navegación. Antes de avanzar, identifica qué módu
 - [ ] Sé qué archivo abrir después.
 - [ ] Sé qué comando, script o checklist usaré.
 - [ ] He escrito una salida esperada antes de ejecutar nada.
+
+## Recursos y referencias
+
+Además del curso interno, usa estas notas para estudiar con fuentes externas:
+
+- [[Como_usar_recursos_y_referencias]]
+- [[Ruta_de_visionado_y_lectura_por_semana]]
+- [[Biblioteca_Comentada]]
+- [[Referencias_Papers]]
+- [[Recursos_Audiovisuales_y_Busquedas]]

@@ -131,3 +131,21 @@ Usa esta nota como punto de navegación. Antes de avanzar, identifica qué módu
 - [ ] Sé qué archivo abrir después.
 - [ ] Sé qué comando, script o checklist usaré.
 - [ ] He escrito una salida esperada antes de ejecutar nada.
+
+## Capa de referencias externas
+
+Para cada bloque del curso, acompaña las notas con recursos externos:
+
+- [[Ruta_de_visionado_y_lectura_por_semana]] para saber qué abrir cada semana.
+- [[Biblioteca_Comentada]] para elegir el recurso correcto según el problema.
+- [[Referencias_Papers]] para profundizar en atención, BM25 y vLLM/PagedAttention.
+- [[Recursos_Audiovisuales_y_Busquedas]] para ver demostraciones sin perderte en vídeos aleatorios.
+
+## Caso real OpenWebUI de Technica
+
+Para estudiar el repo de tu jefe y el patch de empresa:
+
+- [[Repo_javilima01_OpenWebUI]]
+- [[Analisis_codigo_hybrid_search_javilima01]]
+- [[Como_convertir_repo_javilima01_en_patch_empresa]]
+- [[Recurso_repo_javilima01_OpenWebUI]]

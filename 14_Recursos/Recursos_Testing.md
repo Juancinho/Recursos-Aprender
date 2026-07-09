@@ -19,3 +19,16 @@ Un recurso externo solo cuenta si lo conviertes en práctica.
 - [ ] He extraído un comando, concepto o limitación.
 - [ ] Lo he enlazado con una nota técnica.
 - [ ] He descartado lo que no necesito ahora.
+
+## Referencias guiadas testing
+
+- ISTQB glossary: https://glossary.istqb.org/
+  - Mira: requirement, test case, coverage, verification, validation.
+- CTFL: https://www.istqb.org/certifications/certified-tester-foundation-level
+  - Mira: temario base, no hace falta estudiar la certificación entera ahora.
+
+## Después de leer
+
+- [ ] Define 10 términos en [[Glosario_Testing]].
+- [ ] Mejora `requirements.csv` con requisitos más atómicos.
+- [ ] Añade 3 gaps manuales.

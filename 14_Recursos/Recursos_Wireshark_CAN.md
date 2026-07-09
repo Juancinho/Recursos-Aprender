@@ -20,3 +20,18 @@ Un recurso externo solo cuenta si lo conviertes en práctica.
 - [ ] He extraído un comando, concepto o limitación.
 - [ ] Lo he enlazado con una nota técnica.
 - [ ] He descartado lo que no necesito ahora.
+
+## Referencias guiadas Wireshark/CAN
+
+- Wireshark User Guide: https://www.wireshark.org/docs/wsug_html/
+  - Mira: packet list, packet details, display filters.
+- Display filters: https://www.wireshark.org/docs/man-pages/wireshark-filter.html
+  - Mira: operadores, `contains`, campos.
+- Scapy automotive: https://scapy.readthedocs.io/en/latest/layers/automotive.html
+  - Mira: CAN, ISO-TP, UDS.
+
+## Después de leer
+
+- [ ] Construye una chuleta de filtros.
+- [ ] Anota 10 frames con timestamp, ID, DLC, payload.
+- [ ] Propón features para [[Lab_13_Autoencoder_CAN]].

@@ -30,6 +30,7 @@ Notas principales ordenadas por ruta de estudio.
 - [[Git_Basico]] — `03_Git_Patch_Repos/Git_Basico.md`
 - [[Mapa_de_un_repo]] — `03_Git_Patch_Repos/Mapa_de_un_repo.md`
 - [[OpenWebUI_Patch_al_arrancar]] — `03_Git_Patch_Repos/OpenWebUI_Patch_al_arrancar.md`
+- [[Como_convertir_repo_javilima01_en_patch_empresa]] — `03_Git_Patch_Repos/Como_convertir_repo_javilima01_en_patch_empresa.md`
 - [[Coverage_Gaps_Duplicados_Contradicciones]] — `04_Testing_Requisitos/Coverage_Gaps_Duplicados_Contradicciones.md`
 - [[Ejercicio_dataset_requisitos]] — `04_Testing_Requisitos/Ejercicio_dataset_requisitos.md`
 - [[Golden_Set_para_evaluar_retrieval]] — `04_Testing_Requisitos/Golden_Set_para_evaluar_retrieval.md`
@@ -54,6 +55,8 @@ Notas principales ordenadas por ruta de estudio.
 - [[OpenWebUI_con_Qdrant]] — `06_OpenWebUI/OpenWebUI_con_Qdrant.md`
 - [[OpenWebUI_imagen_oficial_mas_patch]] — `06_OpenWebUI/OpenWebUI_imagen_oficial_mas_patch.md`
 - [[Que_mirar_en_docker_compose_de_OpenWebUI]] — `06_OpenWebUI/Que_mirar_en_docker_compose_de_OpenWebUI.md`
+- [[Repo_javilima01_OpenWebUI]] — `06_OpenWebUI/Repo_javilima01_OpenWebUI.md`
+- [[Analisis_codigo_hybrid_search_javilima01]] — `06_OpenWebUI/Analisis_codigo_hybrid_search_javilima01.md`
 - [[Arquitectura_OpenWebUI_LiteLLM_vLLM_Qwen]] — `07_Inference_vLLM_LiteLLM_Qwen/Arquitectura_OpenWebUI_LiteLLM_vLLM_Qwen.md`
 - [[Ejercicios_Inference]] — `07_Inference_vLLM_LiteLLM_Qwen/Ejercicios_Inference.md`
 - [[KV_Cache_Batching_Streaming]] — `07_Inference_vLLM_LiteLLM_Qwen/KV_Cache_Batching_Streaming.md`
@@ -111,6 +114,7 @@ Notas principales ordenadas por ruta de estudio.
 - [[Recursos_Git]] — `14_Recursos/Recursos_Git.md`
 - [[Recursos_LangGraph_MCP]] — `14_Recursos/Recursos_LangGraph_MCP.md`
 - [[Recursos_OpenWebUI]] — `14_Recursos/Recursos_OpenWebUI.md`
+- [[Recurso_repo_javilima01_OpenWebUI]] — `14_Recursos/Recurso_repo_javilima01_OpenWebUI.md`
 - [[Recursos_Qdrant]] — `14_Recursos/Recursos_Qdrant.md`
 - [[Recursos_Qodo]] — `14_Recursos/Recursos_Qodo.md`
 - [[Recursos_Testing]] — `14_Recursos/Recursos_Testing.md`
@@ -137,3 +141,11 @@ Usa esta nota como punto de navegación. Antes de avanzar, identifica qué módu
 - [ ] Sé qué archivo abrir después.
 - [ ] Sé qué comando, script o checklist usaré.
 - [ ] He escrito una salida esperada antes de ejecutar nada.
+
+## Índice recursos profundos
+
+- [[Como_usar_recursos_y_referencias]] — `00_Inicio/Como_usar_recursos_y_referencias.md`
+- [[Ruta_de_visionado_y_lectura_por_semana]] — `14_Recursos/Ruta_de_visionado_y_lectura_por_semana.md`
+- [[Biblioteca_Comentada]] — `14_Recursos/Biblioteca_Comentada.md`
+- [[Referencias_Papers]] — `14_Recursos/Referencias_Papers.md`
+- [[Recursos_Audiovisuales_y_Busquedas]] — `14_Recursos/Recursos_Audiovisuales_y_Busquedas.md`

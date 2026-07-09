@@ -19,3 +19,16 @@ Un recurso externo solo cuenta si lo conviertes en práctica.
 - [ ] He extraído un comando, concepto o limitación.
 - [ ] Lo he enlazado con una nota técnica.
 - [ ] He descartado lo que no necesito ahora.
+
+## Referencias guiadas Qodo
+
+- Qodo docs: https://docs.qodo.ai/
+  - Mira: plataforma, code review, context engine.
+- Qodo code embedding: https://www.qodo.ai/products/code-embedding/
+  - Mira: Qodo-Embed, natural language-to-code, code-to-code.
+
+## Después de leer
+
+- [ ] Distingue Qodo plataforma vs Qodo-Embed.
+- [ ] Ejecuta [[Lab_10_Code_Embeddings]].
+- [ ] Compara una búsqueda semántica con `rg`.

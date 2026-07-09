@@ -19,3 +19,16 @@ Un recurso externo solo cuenta si lo conviertes en práctica.
 - [ ] He extraído un comando, concepto o limitación.
 - [ ] Lo he enlazado con una nota técnica.
 - [ ] He descartado lo que no necesito ahora.
+
+## Referencias guiadas LangGraph/MCP
+
+- LangGraph Graph API: https://docs.langchain.com/oss/python/langgraph/graph-api
+  - Mira: state, nodes, edges, compile.
+- MCP intro: https://modelcontextprotocol.io/docs/getting-started/intro
+  - Mira: client/server, tools, resources.
+
+## Después de leer
+
+- [ ] Dibuja un workflow de requirements testing.
+- [ ] Diseña 3 tools MCP pequeñas.
+- [ ] Escribe qué permisos tendría cada tool.
