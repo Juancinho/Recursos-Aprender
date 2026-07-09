@@ -10,6 +10,7 @@ El foco no es aprender IA de forma genérica. El foco es entender un sistema rea
 ## Índice principal
 
 - [[Como_usar_esta_boveda]]
+- [[Guia_de_estudio_autoexplicativa]]
 - [[Mapa_general]]
 - [[Roadmap_Maestro]]
 - [[Checklist_Global]]
@@ -31,6 +32,22 @@ El foco no es aprender IA de forma genérica. El foco es entender un sistema rea
 - [[Atencion_entre_dos_requisitos]]
 - [[Lab_00_Setup]]
 - [[INDICE]]
+
+## Lecciones profundas
+
+Si una nota te parece demasiado breve, empieza por estas lecciones largas. Estan escritas como curso: problema real, modelo mental, comandos, errores frecuentes, ejercicios y autocomprobacion.
+
+- [[Curso_Docker_desde_cero_para_Technica]]
+- [[Curso_Git_Patch_Repos_grandes]]
+- [[Curso_Testing_Requisitos_Automocion]]
+- [[Curso_Embeddings_RAG_Qdrant_desde_cero]]
+- [[Curso_OpenWebUI_empresa_patch]]
+- [[Curso_Inferencia_vLLM_LiteLLM_Qwen_desde_cero]]
+- [[Curso_Code_Embeddings_Qodo_desde_cero]]
+- [[Curso_LangGraph_MCP_desde_cero]]
+- [[Curso_Wireshark_CAN_UDS_DoIP_desde_cero]]
+- [[Curso_Autoencoders_CAN_desde_cero]]
+- [[Curso_Atencion_entre_requisitos_desde_cero]]
 
 ## Forma de trabajo
 

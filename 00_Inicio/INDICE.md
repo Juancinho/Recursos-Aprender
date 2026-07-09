@@ -91,6 +91,7 @@ Notas principales ordenadas por ruta de estudio.
 - [[Atencion_desde_cero]] — `12_Transformers_Atencion/Atencion_desde_cero.md`
 - [[Atencion_entre_dos_requisitos]] — `12_Transformers_Atencion/Atencion_entre_dos_requisitos.md`
 - [[Atencion_no_es_explicabilidad]] — `12_Transformers_Atencion/Atencion_no_es_explicabilidad.md`
+- [[Grafo_de_requisitos_con_atencion]] — `12_Transformers_Atencion/Grafo_de_requisitos_con_atencion.md`
 - [[Ejercicios_atencion_requisitos]] — `12_Transformers_Atencion/Ejercicios_atencion_requisitos.md`
 - [[Self_Attention_vs_Cross_Attention]] — `12_Transformers_Atencion/Self_Attention_vs_Cross_Attention.md`
 - [[Visualizar_matriz_de_atencion]] — `12_Transformers_Atencion/Visualizar_matriz_de_atencion.md`
@@ -108,6 +109,7 @@ Notas principales ordenadas por ruta de estudio.
 - [[Lab_11_Atencion_Requisitos]] — `13_Labs/Lab_11_Atencion_Requisitos.md`
 - [[Lab_12_Wireshark_CAN]] — `13_Labs/Lab_12_Wireshark_CAN.md`
 - [[Lab_13_Autoencoder_CAN]] — `13_Labs/Lab_13_Autoencoder_CAN.md`
+- [[Lab_14_Grafo_Requisitos_Atencion]] — `13_Labs/Lab_14_Grafo_Requisitos_Atencion.md`
 - [[README]] — `13_Labs/README.md`
 - [[README_Codigo]] — `13_Labs/code/README_Codigo.md`
 - [[Recursos_Docker]] — `14_Recursos/Recursos_Docker.md`

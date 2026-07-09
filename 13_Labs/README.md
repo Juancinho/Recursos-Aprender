@@ -18,6 +18,7 @@ Ejecuta los labs en orden. Los scripts crean salidas en `13_Labs/outputs/`.
 12. [[Lab_11_Atencion_Requisitos]]
 13. [[Lab_12_Wireshark_CAN]]
 14. [[Lab_13_Autoencoder_CAN]]
+15. [[Lab_14_Grafo_Requisitos_Atencion]]
 
 ## Dependencias Python habituales
 
@@ -63,6 +64,7 @@ Cada lab debe producir una observación. No ejecutes scripts como si fueran una 
 | `code_embedding_indexer.py` | code embeddings |
 | `attention_requirements_from_scratch.py` | Q/K/V desde cero |
 | `attention_requirements_with_transformers.py` | atención real de Transformer |
+| `requirements_attention_graph.py` | grafo de requisitos con candidatos + atención |
 | `can_autoencoder.py` | anomalías CAN |
 
 ## Lección guiada

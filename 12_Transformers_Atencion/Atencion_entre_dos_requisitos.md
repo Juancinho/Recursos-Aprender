@@ -37,6 +37,12 @@ Si una fila concentra peso en `DID` o `NRC`, ese token de A está usando informa
 > [!warning]
 > Atención no equivale automáticamente a explicación fiable. Ver [[Atencion_no_es_explicabilidad]].
 
+## De pares a grafo
+
+Cuando tienes muchos requisitos, por ejemplo 800, no haces atencion detallada entre todos los pares. Primero generas candidatos con [[Embeddings_para_requisitos]], [[BM25]], [[Hybrid_Search]] o [[Qdrant]]. Despues aplicas atencion cruzada solo a esos pares candidatos para construir aristas con peso y evidencia.
+
+La nota practica es [[Grafo_de_requisitos_con_atencion]] y el lab asociado es [[Lab_14_Grafo_Requisitos_Atencion]].
+
 ## Ampliación curso: atención como herramienta de inspección de relaciones
 
 ### Qué quieres inspeccionar

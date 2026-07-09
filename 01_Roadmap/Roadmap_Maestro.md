@@ -65,6 +65,22 @@ Empieza por Docker porque OpenWebUI, Qdrant, LiteLLM y vLLM suelen aparecer como
 - [ ] Autoencoders: entreno con normal y detecto anomalías por reconstruction error.
 - [ ] Atención: visualizo atención A->B y B->A entre requisitos.
 
+## Ruta profunda autoexplicativa
+
+Cuando una pieza no este clara, no saltes directamente a documentacion externa. Primero lee la leccion profunda correspondiente y despues ejecuta el lab asociado.
+
+- Docker: [[Curso_Docker_desde_cero_para_Technica]]
+- Git/patch/repos: [[Curso_Git_Patch_Repos_grandes]]
+- Testing/requisitos: [[Curso_Testing_Requisitos_Automocion]]
+- Retrieval/Qdrant: [[Curso_Embeddings_RAG_Qdrant_desde_cero]]
+- OpenWebUI: [[Curso_OpenWebUI_empresa_patch]]
+- Inferencia: [[Curso_Inferencia_vLLM_LiteLLM_Qwen_desde_cero]]
+- Code embeddings/Qodo: [[Curso_Code_Embeddings_Qodo_desde_cero]]
+- LangGraph/MCP: [[Curso_LangGraph_MCP_desde_cero]]
+- Wireshark/CAN/UDS/DoIP: [[Curso_Wireshark_CAN_UDS_DoIP_desde_cero]]
+- Autoencoders: [[Curso_Autoencoders_CAN_desde_cero]]
+- Atencion: [[Curso_Atencion_entre_requisitos_desde_cero]]
+
 ## Ampliación curso: mapa causal del proyecto
 
 Piensa el proyecto como una cadena de decisiones y fallos posibles:

@@ -153,6 +153,14 @@ Salidas esperadas:
 - heatmap B -> A;
 - CSV si usas modelo real.
 
+Para pasar de un par aislado a un grafo de requisitos, lee [[Grafo_de_requisitos_con_atencion]] y ejecuta:
+
+```bash
+python 13_Labs/code/requirements_attention_graph.py
+```
+
+La idea es generar candidatos primero y aplicar atencion solo a esos candidatos, guardando aristas con evidencia token-token.
+
 ## 10. Autocomprobacion
 
 - [ ] Puedo escribir la formula sin mirar.
@@ -161,4 +169,3 @@ Salidas esperadas:
 - [ ] Puedo explicar por que cada fila suma 1.
 - [ ] Puedo comparar atencion, BM25 y embeddings globales.
 - [ ] Puedo explicar por que atencion no equivale a explicabilidad causal.
-
